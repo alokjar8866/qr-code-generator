@@ -21,3 +21,21 @@
 - ### Frontend: HTML5, CSS3, JavaScript
 - ### External API: Qr Server
 
+## Setup Locally
+
+### Follow these steps to run the project on your machine:
+
+## 1. Clone the repository
+```bash
+git clone https://github.com/alokjar8866/qr-code-generator.git
+```
+## 2. Open the project folder
+```bash
+cd qrcode 
+//or navigate to your folder
+```
+## 3. Run the project
+
+**Simply open in browser:**
+Just double click `qr.html` - no server needed!
+
